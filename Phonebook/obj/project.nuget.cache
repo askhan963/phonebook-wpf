@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mc+jQU7ijTn0GRmuSFAfA9vPmySswez23Itvzcn5xvuMfsU3WG5eWR1Hh+ztbYZOd3J6lfEohnivpsOLN9mnQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AS KHAN\\source\\repos\\Phonebook\\Phonebook\\Phonebook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\AS KHAN\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
